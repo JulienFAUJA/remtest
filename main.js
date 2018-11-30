@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
 var $a = $('a');
-$a.css('color', 'green');
+$($a).css('color', 'green');
 
 });
